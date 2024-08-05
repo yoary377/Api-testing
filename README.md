@@ -26,3 +26,4 @@ This project is designed to demonstrate API testing using the RestAssured librar
 ## Example tests:
 - **Finding the Oldest Person**: Tests the logic to parse the birth_year and determine the oldest person from a list of characters.
 - **Film with Most Planets**: Tests the functionality to find a film with the fewest planets featured, utilizing serialized data.
+- **Verify Json Schema**: Verifies the response json schema.
